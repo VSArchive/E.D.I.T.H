@@ -1,0 +1,6 @@
+venv
+.idea
+credentials.json
+.env
+token.pickle
+notes
